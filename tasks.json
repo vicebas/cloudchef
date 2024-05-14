@@ -1,0 +1,19 @@
+
+{
+	"task_id1": {
+		"timeRequired": 200,
+		"dependencies": ["task_id2", "task_id3"]
+	},
+	"task_id2": {
+		"timeRequired": 100,
+		"dependencies": ["task_id4"]
+	},
+	"task_id3": {
+		"timeRequired": 10,
+		"dependencies": []
+	},
+	"task_id4": {
+		"timeRequired": 100,
+		"dependencies": []
+	}
+}

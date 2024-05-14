@@ -1,0 +1,552 @@
+{
+  "task0": {
+    "timeRequired": 189,
+    "dependencies": []
+  },
+  "task1": {
+    "timeRequired": 74,
+    "dependencies": []
+  },
+  "task2": {
+    "timeRequired": 73,
+    "dependencies": [
+      "task0"
+    ]
+  },
+  "task3": {
+    "timeRequired": 171,
+    "dependencies": [
+      "task0"
+    ]
+  },
+  "task4": {
+    "timeRequired": 110,
+    "dependencies": [
+      "task2"
+    ]
+  },
+  "task5": {
+    "timeRequired": 123,
+    "dependencies": []
+  },
+  "task6": {
+    "timeRequired": 171,
+    "dependencies": [
+      "task5",
+      "task1"
+    ]
+  },
+  "task7": {
+    "timeRequired": 82,
+    "dependencies": []
+  },
+  "task8": {
+    "timeRequired": 160,
+    "dependencies": []
+  },
+  "task9": {
+    "timeRequired": 183,
+    "dependencies": [
+      "task0",
+      "task1"
+    ]
+  },
+  "task10": {
+    "timeRequired": 157,
+    "dependencies": []
+  },
+  "task11": {
+    "timeRequired": 161,
+    "dependencies": []
+  },
+  "task12": {
+    "timeRequired": 53,
+    "dependencies": [
+      "task7"
+    ]
+  },
+  "task13": {
+    "timeRequired": 111,
+    "dependencies": []
+  },
+  "task14": {
+    "timeRequired": 68,
+    "dependencies": [
+      "task6",
+      "task3"
+    ]
+  },
+  "task15": {
+    "timeRequired": 183,
+    "dependencies": []
+  },
+  "task16": {
+    "timeRequired": 197,
+    "dependencies": []
+  },
+  "task17": {
+    "timeRequired": 166,
+    "dependencies": [
+      "task5",
+      "task15"
+    ]
+  },
+  "task18": {
+    "timeRequired": 156,
+    "dependencies": [
+      "task0"
+    ]
+  },
+  "task19": {
+    "timeRequired": 86,
+    "dependencies": []
+  },
+  "task20": {
+    "timeRequired": 91,
+    "dependencies": [
+      "task18"
+    ]
+  },
+  "task21": {
+    "timeRequired": 93,
+    "dependencies": [
+      "task3"
+    ]
+  },
+  "task22": {
+    "timeRequired": 158,
+    "dependencies": []
+  },
+  "task23": {
+    "timeRequired": 95,
+    "dependencies": []
+  },
+  "task24": {
+    "timeRequired": 114,
+    "dependencies": [
+      "task10"
+    ]
+  },
+  "task25": {
+    "timeRequired": 165,
+    "dependencies": []
+  },
+  "task26": {
+    "timeRequired": 68,
+    "dependencies": []
+  },
+  "task27": {
+    "timeRequired": 159,
+    "dependencies": []
+  },
+  "task28": {
+    "timeRequired": 53,
+    "dependencies": [
+      "task27"
+    ]
+  },
+  "task29": {
+    "timeRequired": 107,
+    "dependencies": [
+      "task10"
+    ]
+  },
+  "task30": {
+    "timeRequired": 152,
+    "dependencies": [
+      "task6"
+    ]
+  },
+  "task31": {
+    "timeRequired": 170,
+    "dependencies": [
+      "task4"
+    ]
+  },
+  "task32": {
+    "timeRequired": 105,
+    "dependencies": [
+      "task1"
+    ]
+  },
+  "task33": {
+    "timeRequired": 177,
+    "dependencies": []
+  },
+  "task34": {
+    "timeRequired": 68,
+    "dependencies": [
+      "task15",
+      "task8"
+    ]
+  },
+  "task35": {
+    "timeRequired": 148,
+    "dependencies": []
+  },
+  "task36": {
+    "timeRequired": 73,
+    "dependencies": [
+      "task25"
+    ]
+  },
+  "task37": {
+    "timeRequired": 97,
+    "dependencies": []
+  },
+  "task38": {
+    "timeRequired": 143,
+    "dependencies": [
+      "task36"
+    ]
+  },
+  "task39": {
+    "timeRequired": 70,
+    "dependencies": [
+      "task6"
+    ]
+  },
+  "task40": {
+    "timeRequired": 96,
+    "dependencies": [
+      "task24",
+      "task4"
+    ]
+  },
+  "task41": {
+    "timeRequired": 85,
+    "dependencies": []
+  },
+  "task42": {
+    "timeRequired": 92,
+    "dependencies": []
+  },
+  "task43": {
+    "timeRequired": 189,
+    "dependencies": []
+  },
+  "task44": {
+    "timeRequired": 187,
+    "dependencies": [
+      "task29",
+      "task21"
+    ]
+  },
+  "task45": {
+    "timeRequired": 150,
+    "dependencies": [
+      "task12",
+      "task17"
+    ]
+  },
+  "task46": {
+    "timeRequired": 153,
+    "dependencies": []
+  },
+  "task47": {
+    "timeRequired": 163,
+    "dependencies": []
+  },
+  "task48": {
+    "timeRequired": 181,
+    "dependencies": [
+      "task34"
+    ]
+  },
+  "task49": {
+    "timeRequired": 145,
+    "dependencies": []
+  },
+  "task50": {
+    "timeRequired": 167,
+    "dependencies": [
+      "task26",
+      "task14"
+    ]
+  },
+  "task51": {
+    "timeRequired": 148,
+    "dependencies": []
+  },
+  "task52": {
+    "timeRequired": 50,
+    "dependencies": [
+      "task43"
+    ]
+  },
+  "task53": {
+    "timeRequired": 195,
+    "dependencies": [
+      "task17",
+      "task51"
+    ]
+  },
+  "task54": {
+    "timeRequired": 113,
+    "dependencies": [
+      "task32",
+      "task38"
+    ]
+  },
+  "task55": {
+    "timeRequired": 186,
+    "dependencies": [
+      "task1"
+    ]
+  },
+  "task56": {
+    "timeRequired": 193,
+    "dependencies": []
+  },
+  "task57": {
+    "timeRequired": 94,
+    "dependencies": []
+  },
+  "task58": {
+    "timeRequired": 81,
+    "dependencies": [
+      "task46"
+    ]
+  },
+  "task59": {
+    "timeRequired": 106,
+    "dependencies": [
+      "task16"
+    ]
+  },
+  "task60": {
+    "timeRequired": 56,
+    "dependencies": [
+      "task59"
+    ]
+  },
+  "task61": {
+    "timeRequired": 193,
+    "dependencies": [
+      "task55"
+    ]
+  },
+  "task62": {
+    "timeRequired": 68,
+    "dependencies": [
+      "task46"
+    ]
+  },
+  "task63": {
+    "timeRequired": 159,
+    "dependencies": []
+  },
+  "task64": {
+    "timeRequired": 160,
+    "dependencies": [
+      "task24",
+      "task26"
+    ]
+  },
+  "task65": {
+    "timeRequired": 143,
+    "dependencies": [
+      "task44"
+    ]
+  },
+  "task66": {
+    "timeRequired": 165,
+    "dependencies": [
+      "task16"
+    ]
+  },
+  "task67": {
+    "timeRequired": 52,
+    "dependencies": [
+      "task26"
+    ]
+  },
+  "task68": {
+    "timeRequired": 190,
+    "dependencies": [
+      "task10",
+      "task13"
+    ]
+  },
+  "task69": {
+    "timeRequired": 147,
+    "dependencies": [
+      "task39"
+    ]
+  },
+  "task70": {
+    "timeRequired": 168,
+    "dependencies": []
+  },
+  "task71": {
+    "timeRequired": 58,
+    "dependencies": [
+      "task49"
+    ]
+  },
+  "task72": {
+    "timeRequired": 154,
+    "dependencies": [
+      "task13"
+    ]
+  },
+  "task73": {
+    "timeRequired": 151,
+    "dependencies": [
+      "task64",
+      "task44"
+    ]
+  },
+  "task74": {
+    "timeRequired": 114,
+    "dependencies": [
+      "task66",
+      "task66"
+    ]
+  },
+  "task75": {
+    "timeRequired": 115,
+    "dependencies": []
+  },
+  "task76": {
+    "timeRequired": 104,
+    "dependencies": [
+      "task55"
+    ]
+  },
+  "task77": {
+    "timeRequired": 94,
+    "dependencies": [
+      "task72",
+      "task10"
+    ]
+  },
+  "task78": {
+    "timeRequired": 150,
+    "dependencies": []
+  },
+  "task79": {
+    "timeRequired": 189,
+    "dependencies": [
+      "task78"
+    ]
+  },
+  "task80": {
+    "timeRequired": 81,
+    "dependencies": [
+      "task32"
+    ]
+  },
+  "task81": {
+    "timeRequired": 168,
+    "dependencies": [
+      "task6",
+      "task74"
+    ]
+  },
+  "task82": {
+    "timeRequired": 54,
+    "dependencies": [
+      "task35",
+      "task43"
+    ]
+  },
+  "task83": {
+    "timeRequired": 83,
+    "dependencies": []
+  },
+  "task84": {
+    "timeRequired": 102,
+    "dependencies": [
+      "task82"
+    ]
+  },
+  "task85": {
+    "timeRequired": 106,
+    "dependencies": [
+      "task10",
+      "task57"
+    ]
+  },
+  "task86": {
+    "timeRequired": 137,
+    "dependencies": [
+      "task21",
+      "task82"
+    ]
+  },
+  "task87": {
+    "timeRequired": 188,
+    "dependencies": []
+  },
+  "task88": {
+    "timeRequired": 91,
+    "dependencies": []
+  },
+  "task89": {
+    "timeRequired": 109,
+    "dependencies": [
+      "task3"
+    ]
+  },
+  "task90": {
+    "timeRequired": 69,
+    "dependencies": [
+      "task49"
+    ]
+  },
+  "task91": {
+    "timeRequired": 199,
+    "dependencies": [
+      "task22",
+      "task88"
+    ]
+  },
+  "task92": {
+    "timeRequired": 163,
+    "dependencies": [
+      "task54",
+      "task79"
+    ]
+  },
+  "task93": {
+    "timeRequired": 137,
+    "dependencies": [
+      "task58",
+      "task89"
+    ]
+  },
+  "task94": {
+    "timeRequired": 136,
+    "dependencies": [
+      "task85"
+    ]
+  },
+  "task95": {
+    "timeRequired": 111,
+    "dependencies": [
+      "task73",
+      "task44"
+    ]
+  },
+  "task96": {
+    "timeRequired": 67,
+    "dependencies": []
+  },
+  "task97": {
+    "timeRequired": 79,
+    "dependencies": [
+      "task39"
+    ]
+  },
+  "task98": {
+    "timeRequired": 65,
+    "dependencies": []
+  },
+  "task99": {
+    "timeRequired": 71,
+    "dependencies": [
+      "task64"
+    ]
+  }
+}
